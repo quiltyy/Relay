@@ -10,13 +10,15 @@ In my work I also noticed that students who have "re-enrolled" pop up as duplica
 
 
 In order to complete the project I first used the attached python file to scrape the U.S. Department of Education’s API
+
 <link>https://github.com/quiltyy/Relay/blob/main/MD%20PT.%20Python%20Scrape%2007.28.23.py</link>
 
 Once I attained this data I placed it into a Microsoft SQL Server where I then ran the following code 
+
 <link>https://github.com/quiltyy/Relay/blob/main/MD%20PT.%20Query%2007.28.23.sql</link>
 
-In order to create a list of "unique" students.  I have attached a copy of the database as an Access file here
-<link>https://github.com/quiltyy/Relay/blob/main/Relay.accdb</link>
+In order to create a list of "unique" students.  I have attached a copy of the database as an Access file here <link>https://github.com/quiltyy/Relay/blob/main/Relay.accdb</link>
+
 You can view the results of the query under Relay Results, but I also created a verification query that searches for any repeated studentid's and returns their values for further examination which identified the students and then reviewed the records. 
 
 Finally I placed the data in a simple PowerBI showing the responses for each survey question and added a few filters for investigation by the customers.  The visualizations all only record one response per unique student ID meaning that although I left a few duplicate records for review in the original data, the end-users reports will not be effected regardless of our decisions on processing the students. 
