@@ -1,4 +1,3 @@
-![image](https://github.com/quiltyy/Relay/assets/33704669/8cd2a979-9966-4c31-a3be-75b80b02f7b3)# Relay
 Relay MDPT Position Submission
 
 For the following data submissions I wanted to create a small README outlining the steps of the process for creating the data required by this task.
