@@ -13,7 +13,7 @@ In order to complete the project I first used the attached python file to scrape
 <link>https://github.com/quiltyy/Relay/blob/main/MD%20PT.%20Python%20Scrape%2007.28.23.py</link>
 
 Once I attained this data I placed it into a Microsoft SQL Server where I then ran the following code 
-<link>https://github.com/quiltyy/Relay/blob/main/Andrew.%20Chamberlain.%20MD%20PT.%2007.28.23.sql</link>
+<link>https://github.com/quiltyy/Relay/blob/main/MD%20PT.%20Query%2007.28.23.sql</link>
 
 In order to create a list of "unique" students.  I have attached a copy of the database as an Access file here
 <link>https://github.com/quiltyy/Relay/blob/main/Relay.accdb</link>
